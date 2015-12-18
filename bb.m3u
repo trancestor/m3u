@@ -44,7 +44,10 @@ http://bit.ly/1O2JKDY
 http://juventus4ever.ddns.net:8000/live/germani/germani/2269.ts
 #EXTINF:-1,Sky Bundesliga 1 HD
 http://ipsatpro.com:8000/live/mesut/mesut/810.ts
-
+#EXTINF:-1,Sky Bundesliga 1
+http://bstream.starsplanet.org:8000/live/monic/monic/4025.ts
+#EXTINF:-1,Sky Bundesliga 1
+http://ns306359.ip-94-23-221.eu:8000/live/copa/copa/200.ts
 
 #EXTINF:-1,[COLOR yellow][I][B]--- LIGTV ---[/B][/I][/COLOR]
 http://0.0.0.0:1234
