@@ -37,6 +37,8 @@ http://xs.best-tv.us:8000/live/Alina/alina/2047.ts
 #EXTINF:-1,Sky Bundesliga 1 HD
 http://iptvch.selfip.info:80/live/charlies/charlies/623.ts
 #EXTINF:-1,Sky Bundesliga 1 HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/1610.ts
+#EXTINF:-1,Sky Bundesliga 1 HD
 http://62.210.248.96:11000/live/mhdi/mhdi/377.ts
 #EXTINF:-1,Sky Bundesliga 1 HD
 http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3088.ts
@@ -72,7 +74,10 @@ http://electro-tunis.biz:8000/live/DRaKE/DRaKE/183.ts
 http://37.187.165.95:34555/live/Filippo00/Egizzi/227.ts
 #EXTINF:-1,Sky Bundesliga 1
 http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
-
+#EXTINF:-1,Sky Bundesliga 1
+http://sat.010e.net:8000/live/lara1/lara1/1393.ts
+#EXTINF:-1,Sky Bundesliga 1
+http://sat.010e.net:8000/live/KASEM/KASEM/1393.ts
 
 #EXTINF:-1,[COLOR yellow][I][B]--- LIGTV ---[/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -95,6 +100,10 @@ http://iptvch.selfip.info:80/live/charlies/charlies/662.ts
 http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/4229.ts
 #EXTINF:-1,LigTV HD 1
 http://www.t12v.com:8000/live/romeo/romeo/896.ts
+#EXTINF:-1,LigTV HD 1
+http://sat.010e.net:8000/live/lara1/lara1/451.ts
+#EXTINF:-1,LigTV HD 1
+http://sat.010e.net:8000/live/KASEM/KASEM/451.ts
 
 #EXTINF:-1,LigTV HD 2
 http://satloveriptv.com:8090/live/mexicano/mexciano/4412.ts
@@ -114,6 +123,10 @@ http://iptvch.selfip.info:80/live/charlies/charlies/689.ts
 http://sat.010e.net:8000/live/lara1/lara1/450.ts
 #EXTINF:-1,LigTV HD 2
 http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/4228.ts
+#EXTINF:-1,LigTV HD 2
+http://sat.010e.net:8000/live/lara1/lara1/450.ts
+#EXTINF:-1,LigTV HD 2
+http://sat.010e.net:8000/live/KASEM/KASEM/450.ts
 
 #EXTINF:-1,LigTV HD 3
 http://cdn.step-tv.com:8000/live/tarek/tarek/390.ts
@@ -509,3 +522,44 @@ http://iptvch.selfip.info:80/live/charlies/charlies/423.ts
 http://iptvch.selfip.info:80/live/charlies/charlies/422.ts
 #EXTINF:-1,DE: ATLANTIC HD
 http://iptvch.selfip.info:80/live/charlies/charlies/622.ts
+
+#EXTINF:-1,[I][B][COLOR yellow]====Server 15====[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Sky De Cinema HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2383.ts
+#EXTINF:-1,Sky De Cinema +1 HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2384.ts
+#EXTINF:-1,Sky De Cinema +24 HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/1608.ts
+#EXTINF:-1,Sky De Cinema Hits HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2362.ts
+#EXTINF:-1,Sky De Action HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2386.ts
+#EXTINF:-1,Sky De Comedy HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2382.ts
+#EXTINF:-1,Sky De Emotion
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2381.ts
+#EXTINF:-1,Sky Select 1
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2657.ts
+#EXTINF:-1,Sky Select 2
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2658.ts
+#EXTINF:-1,Sky Select 3
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2659.ts
+#EXTINF:-1,Sky Select 4
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2660.ts
+#EXTINF:-1,Sky Select 5
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2661.ts
+#EXTINF:-1,Sky Select 6
+http://tvservice.webhop.me:80/live/cosimo/cosimo/1507.ts
+#EXTINF:-1,Sky Select 7
+http://tvservice.webhop.me:80/live/cosimo/cosimo/1508.ts
+#EXTINF:-1,Sky Select 8
+http://tvservice.webhop.me:80/live/cosimo/cosimo/1509.ts
+#EXTINF:-1,Sky Select 9
+http://tvservice.webhop.me:80/live/cosimo/cosimo/1595.ts
+#EXTINF:-1,Sky Select 10
+http://tvservice.webhop.me:80/live/cosimo/cosimo/3407.ts
+#EXTINF:-1,Sky Atlantic De HD
+http://tvservice.webhop.me:80/live/cosimo/cosimo/2385.ts
+
