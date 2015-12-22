@@ -502,20 +502,57 @@ http://www.t12v.com:8000/live/romeo/romeo/761.ts
 #EXTINF:-1,[I][B][COLOR yellow]====Server 14====[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1,DE: Sky DE Sport 1 HD
-http://iptvch.selfip.info:80/live/charlies/charlies/214.ts
-#EXTINF:-1,DE: Sky DE Sport 2 HD
-http://iptvch.selfip.info:80/live/charlies/charlies/215.ts
+#EXTINF:-1,Sky DE Comedy
+http://xs.best-tv.us:8000/live/otto/otto/2055.ts
+#EXTINF:-1,Sky DE Cinema  24
+http://xs.best-tv.us:8000/live/otto/otto/2054.ts
+#EXTINF:-1,Sky DE Cinema  1
+http://xs.best-tv.us:8000/live/otto/otto/2053.ts
+#EXTINF:-1,Sky DE Cinema
+http://xs.best-tv.us:8000/live/otto/otto/2052.ts
+#EXTINF:-1,Sky DE Hits HD
+http://xs.best-tv.us:8000/live/otto/otto/2058.ts
+#EXTINF:-1,Sky DE Emotion
+http://xs.best-tv.us:8000/live/otto/otto/2057.ts
+#EXTINF:-1,Sky DE Discovery Channel HD
+http://xs.best-tv.us:8000/live/otto/otto/2056.ts
+#EXTINF:-1,Sky DE Atlantic HD
+http://xs.best-tv.us:8000/live/otto/otto/2046.ts
+#EXTINF:-1,Sky DE Action
+http://xs.best-tv.us:8000/live/otto/otto/2045.ts
 #EXTINF:-1,DE: Sky Action HD
-http://iptvch.selfip.info:80/live/charlies/charlies/237.ts
+http://xs.best-tv.us:8000/live/otto/otto/1948.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://xs.best-tv.us:8000/live/otto/otto/1947.ts
+#EXTINF:-1,DE: Sky Cinema  24
+http://xs.best-tv.us:8000/live/otto/otto/1946.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://xs.best-tv.us:8000/live/otto/otto/1945.ts
 #EXTINF:-1,DE: Sky Comedy
-http://iptvch.selfip.info:80/live/charlies/charlies/619.ts
-#EXTINF:-1,DE: Sky Cinema +24
-http://iptvch.selfip.info:80/live/charlies/charlies/423.ts
-#EXTINF:-1,DE: Sky Cinema
-http://iptvch.selfip.info:80/live/charlies/charlies/422.ts
-#EXTINF:-1,DE: ATLANTIC HD
-http://iptvch.selfip.info:80/live/charlies/charlies/622.ts
+http://xs.best-tv.us:8000/live/otto/otto/1944.ts
+#EXTINF:-1,Sky DE Sport 1 HD
+http://xs.best-tv.us:8000/live/otto/otto/2061.ts
+#EXTINF:-1,Sky DE Sport 2 HD
+http://xs.best-tv.us:8000/live/otto/otto/2062.ts
+#EXTINF:-1,DE Sky Select 1 HD
+http://xs.best-tv.us:8000/live/otto/otto/1991.ts
+#EXTINF:-1,DE Sky Select 2 HD
+http://xs.best-tv.us:8000/live/otto/otto/1990.ts
+#EXTINF:-1,DE Sky Select 3 HD
+http://xs.best-tv.us:8000/live/otto/otto/1989.ts
+#EXTINF:-1,DE Sky Select 4 HD
+http://xs.best-tv.us:8000/live/otto/otto/1988.ts
+#EXTINF:-1,DE Sky Select 5 HD
+http://xs.best-tv.us:8000/live/otto/otto/1987.ts
+#EXTINF:-1,DE Sky Select 6 HD
+http://xs.best-tv.us:8000/live/otto/otto/1986.ts
+#EXTINF:-1,DE Sky Select 7 HD
+http://xs.best-tv.us:8000/live/otto/otto/1985.ts
+#EXTINF:-1,DE Sky Select 8 HD
+http://xs.best-tv.us:8000/live/otto/otto/1984.ts
+#EXTINF:-1,DE Sky Select 9 HD
+http://xs.best-tv.us:8000/live/otto/otto/1983.ts
+
 
 #EXTINF:-1,[I][B][COLOR yellow]====Server 15====[/COLOR][/B][/I]
 http://0.0.0.0:1234
