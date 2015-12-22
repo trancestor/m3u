@@ -91,8 +91,6 @@ http://sat.010e.net:8000/live/KASEM/KASEM/451.ts
 #EXTINF:-1,LigTV HD 1
 http://sat.010e.net:8000/live/lara1/lara1/451.ts
 #EXTINF:-1,LigTV HD 1
-http://iptvch.selfip.info:80/live/charlies/charlies/662.ts
-#EXTINF:-1,LigTV HD 1
 http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/4229.ts
 #EXTINF:-1,LigTV HD 1
 http://www.t12v.com:8000/live/romeo/romeo/896.ts
@@ -103,8 +101,6 @@ http://sat.010e.net:8000/live/KASEM/KASEM/451.ts
 
 #EXTINF:-1,LigTV HD 2
 http://satloveriptv.com:8090/live/mexicano/mexciano/4412.ts
-#EXTINF:-1,LigTV HD 2
-http://iptvch.selfip.info:80/live/charlies/charlies/1451.ts
 #EXTINF:-1,LigTV HD 2
 http://www.t12v.com:8000/live/romeo/romeo/895.ts
 #EXTINF:-1,LigTV HD 2
