@@ -85,10 +85,6 @@ http://0.0.0.0:1234
 #EXTINF:-1,LigTV HD 1
 http://satloveriptv.com:8090/live/mexicano/mexciano/4411.ts
 #EXTINF:-1,LigTV HD 1
-http://cdn.step-tv.com:8000/live/tarek/tarek/392.ts
-#EXTINF:-1,LigTV HD 1
-http://iptvch.selfip.info:80/live/charlies/charlies/1450.ts
-#EXTINF:-1,LigTV HD 1
 http://www.t12v.com:8000/live/jaafar/jaafar/896.ts
 #EXTINF:-1,LigTV HD 1
 http://sat.010e.net:8000/live/KASEM/KASEM/451.ts
