@@ -78,6 +78,8 @@ http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
 http://sat.010e.net:8000/live/lara1/lara1/1393.ts
 #EXTINF:-1,Sky Bundesliga 1 (35)
 http://sat.010e.net:8000/live/KASEM/KASEM/1393.ts
+#EXTINF:-1,Sky Bundesliga 1 HD (36)
+http://xs.best-tv.us:8000/live/otto/otto/2047.ts
 
 #EXTINF:-1,[COLOR yellow][I][B]--- LIGTV ---[/B][/I][/COLOR]
 http://0.0.0.0:1234
