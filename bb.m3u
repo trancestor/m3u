@@ -8,62 +8,19 @@ http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow][I][B]--- BUNDESLIGA ---[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Sky Bundesliga 1 HD (1)
-http://xs.best-tv.us:8000/live/Alina/alina/2047.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (2)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/377.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (3)
-http://bstream.starsplanet.org:8000/live/monic/monic/4025.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (4)
-http://www.t12v.com:8000/live/rocco/rocco/1023.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (5)
-http://37.187.165.95:34555/live/Filippo00/Egizzi/227.ts
+
 #EXTINF:-1,Sky Bundesliga 1 HD (6)
 http://bit.ly/1XmOcIc
-#EXTINF:-1,Sky Bundesliga 1 HD (7)
-http://cdn.step-tv.com:8000/live/tarek/tarek/359.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (8)
-http://bit.ly/1O2JKDY
-#EXTINF:-1,Sky Bundesliga 1 HD (9)
-http://satloveriptv.com:8090/live/mexicano/mexciano/4101.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (10)
-http://skyiptv.ddns.net:8000/live/shima/shima/319.m3u8
-#EXTINF:-1,Sky Bundesliga 1 HD (11)
-http://x-micky.mickypizza1.com:8000/live/iptv/iptv/631.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (12)
-http://www.t12v.com:8000/live/habib1/habib1/1023.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (13)
-http://xs.best-tv.us:8000/live/Alina/alina/2047.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (14)
-http://iptvch.selfip.info:80/live/charlies/charlies/623.ts
 #EXTINF:-1,Sky Bundesliga 1 HD (15)
 http://tvservice.webhop.me:80/live/cosimo/cosimo/1610.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (16)
-http://62.210.248.96:11000/live/mhdi/mhdi/377.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (17)
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3088.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (18)
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/8770.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (19)
-http://www.t12v.com:8000/live/romeo/romeo/1023.ts
 #EXTINF:-1,Sky Bundesliga 1 HD (20)
 http://tvservice.webhop.me:80/live/cosimo/cosimo/1610.ts
 #EXTINF:-1,Sky Bundesliga 1 HD (21)
 http://91.204.214.106:23321/stolen/512u/sality.lzh
-#EXTINF:-1,Sky Bundesliga 1 HD (22)
-http://xs.best-tv.us:8000/live/sorice/sorice/2047.ts
 #EXTINF:-1,Sky Bundesliga 1 HD (23)
 http://newone15.ddns.net:8000/live/flatout/flatout/4395.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (24)
-http://bit.ly/1O2JKDY
-#EXTINF:-1,Sky Bundesliga 1 HD (25)
-http://bit.ly/1O2JKDY
-#EXTINF:-1,Sky Bundesliga 1 HD (26)
-http://bit.ly/1O2JKDY
 #EXTINF:-1,Sky Bundesliga 1 HD (27)
 http://juventus4ever.ddns.net:8000/live/germani/germani/2269.ts
-#EXTINF:-1,Sky Bundesliga 1 (28)
-http://bstream.starsplanet.org:8000/live/monic/monic/4025.ts
 #EXTINF:-1,Sky Bundesliga 1 (29)
 http://sat.010e.net:8000/live/KASEM/KASEM/1393.ts
 #EXTINF:-1,Sky Bundesliga 1 (30)
@@ -162,107 +119,8 @@ http://satloveriptv.com:8090/live/mexicano/mexciano/4115.ts
 #EXTINF:-1,Sky 13 Street HD
 http://satloveriptv.com:8090/live/mexicano/mexciano/4112.ts
 
+
 #EXTINF:-1,[I][B][COLOR yellow]====Server 2====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Sport 1 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/673.m3u8
-#EXTINF:-1,Sport 1+ HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1162.m3u8
-#EXTINF:-1,Sport 1 US HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1125.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/7.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/179.m3u8
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 3====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1, Sky Sport 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/381.ts
-#EXTINF:-1, Sky Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/382.ts
-#EXTINF:-1, Sky Krimi
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/365.ts
-#EXTINF:-1, Sky Hits
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/380.ts
-#EXTINF:-1, Sky Emotion
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/364.ts
-#EXTINF:-1, Sky Comedy
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/379.ts
-#EXTINF:-1, Sky Cinema
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/378.ts
-#EXTINF:-1, Sky Atlantic HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/376.ts
-#EXTINF:-1, Sky Action
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/375.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 4====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Sky DE Comedy
-http://xs.best-tv.us:8000/live/Alina/alina/2055.ts
-#EXTINF:-1,Sky DE Cinema  24
-http://xs.best-tv.us:8000/live/Alina/alina/2054.ts
-#EXTINF:-1,Sky DE Cinema  1
-http://xs.best-tv.us:8000/live/Alina/alina/2053.ts
-#EXTINF:-1,Sky DE Cinema
-http://xs.best-tv.us:8000/live/Alina/alina/2052.ts
-#EXTINF:-1,Sky DE Hits HD
-http://xs.best-tv.us:8000/live/Alina/alina/2058.ts
-#EXTINF:-1,Sky DE Emotion
-http://xs.best-tv.us:8000/live/Alina/alina/2057.ts
-#EXTINF:-1,Sky DE Discovery Channel HD
-http://xs.best-tv.us:8000/live/Alina/alina/2056.ts
-#EXTINF:-1,Sky DE Atlantic HD
-http://xs.best-tv.us:8000/live/Alina/alina/2046.ts
-#EXTINF:-1,Sky DE Action
-http://xs.best-tv.us:8000/live/Alina/alina/2045.ts
-#EXTINF:-1,Sky DE Sport 1 HD
-http://xs.best-tv.us:8000/live/Alina/alina/2061.ts
-#EXTINF:-1,Sky DE Sport 2 HD
-http://xs.best-tv.us:8000/live/Alina/alina/2062.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 5====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,DE: Sky Cinema
-http://bstream.starsplanet.org:8000/live/monic/monic/4042.ts
-#EXTINF:-1,DE: Sky Cinema  +1
-http://bstream.starsplanet.org:8000/live/monic/monic/4044.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://bstream.starsplanet.org:8000/live/monic/monic/4043.ts
-#EXTINF:-1,DE: Sky Action HD
-http://bstream.starsplanet.org:8000/live/monic/monic/4045.ts
-#EXTINF:-1,DE: Sky Comedy
-http://bstream.starsplanet.org:8000/live/monic/monic/4041.ts
-#EXTINF:-1,DE: Sky Emotion
-http://bstream.starsplanet.org:8000/live/monic/monic/4024.ts
-#EXTINF:-1,DE:  SKY ATLANTIC
-http://bstream.starsplanet.org:8000/live/monic/monic/4079.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 6====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,DE: Sky Cinema
-http://37.187.165.95:34555/live/Filippo00/Egizzi/245.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://37.187.165.95:34555/live/Filippo00/Egizzi/242.ts
-#EXTINF:-1,DE: Sky Comedy
-http://37.187.165.95:34555/live/Filippo00/Egizzi/240.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://37.187.165.95:34555/live/Filippo00/Egizzi/239.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD
-http://37.187.165.95:34555/live/Filippo00/Egizzi/244.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://37.187.165.95:34555/live/Filippo00/Egizzi/243.ts
-#EXTINF:-1,DE: Sky Action HD
-http://37.187.165.95:34555/live/Filippo00/Egizzi/249.ts
-#EXTINF:-1,DE: Atlantic HD
-http://37.187.165.95:34555/live/Filippo00/Egizzi/258.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 7====[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 #EXTINF:-1,DE:SKY_ATLANTIC
@@ -292,7 +150,7 @@ http://cdn.step-tv.com:8000/live/tarek/tarek/357.ts
 #EXTINF:-1,DE:SKY_SPORTS_HD2
 http://cdn.step-tv.com:8000/live/tarek/tarek/358.ts
 
-#EXTINF:-1,[I][B][COLOR yellow]====Server 8====[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow]====Server 3====[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 #EXTINF:-1,SKY-SPORT1-Germany
@@ -318,33 +176,7 @@ http://sat.010e.net:8000/live/KASEM/KASEM/1391.ts
 #EXTINF:-1,SKYDE:SKY-COMEDY
 http://sat.010e.net:8000/live/KASEM/KASEM/1389.ts
 
-#EXTINF:-1,[I][B][COLOR yellow]====Server 9====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,SKY-SPORT1-Germany
-http://sat.010e.net:8000/live/lara1/lara1/351.ts
-#EXTINF:-1,SKY-SPORT2-Germany
-http://sat.010e.net:8000/live/lara1/lara1/352.ts
-#EXTINF:-1,Sky-Select-1HD
-http://sat.010e.net:8000/live/lara1/lara1/779.ts
-#EXTINF:-1,Sky-Select-2HD
-http://sat.010e.net:8000/live/lara1/lara1/780.ts
-#EXTINF:-1,Sky-Select-3HD
-http://sat.010e.net:8000/live/lara1/lara1/781.ts
-#EXTINF:-1,Sky-Select-4HD
-http://sat.010e.net:8000/live/lara1/lara1/782.ts
-#EXTINF:-1,Sky-Select-5HD
-http://sat.010e.net:8000/live/lara1/lara1/783.ts
-#EXTINF:-1,SKYDE:CINEMA
-http://sat.010e.net:8000/live/lara1/lara1/1385.ts
-#EXTINF:-1,DE:SkyAction_HD
-http://sat.010e.net:8000/live/lara1/lara1/1392.ts
-#EXTINF:-1,DE:Cinema_Plus_24
-http://sat.010e.net:8000/live/lara1/lara1/1391.ts
-#EXTINF:-1,SKYDE:SKY-COMEDY
-http://sat.010e.net:8000/live/lara1/lara1/1389.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 10====[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow]====Server 4====[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Sky De Cinema HD
@@ -388,7 +220,7 @@ http://tvservice.webhop.me:80/live/cosimo/cosimo/1609.ts
 #EXTINF:-1,Sky De Sport 2 HD
 http://tvservice.webhop.me:80/live/cosimo/cosimo/1611.ts
 
-#EXTINF:-1,[I][B][COLOR yellow]====Server 11====[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow]====Server 5====[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 #EXTINF:-1,DE: Sky Comedy HD
@@ -432,129 +264,8 @@ http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/221.ts
 #EXTINF:-1,DE: Sky Action
 http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/222.ts
 
-#EXTINF:-1,[I][B][COLOR yellow]====Server 12====[/COLOR][/B][/I]
-http://0.0.0.0:1234
 
-#EXTINF:-1,DE: Sky Sports 1 HD
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3089.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-#EXTINF:-1,DE: Sky Select HD 1
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3517.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3095.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3096.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3097.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3098.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3099.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3100.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3519.ts
-#EXTINF:-1,DE: SKY ATLANTIC
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3074.ts
-#EXTINF:-1,DE: Sky Krimi
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3044.ts
-#EXTINF:-1,DE: Sky Cinema 1
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3071.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3073.ts
-#EXTINF:-1,DE: Sky Germany Action
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3069.ts
-#EXTINF:-1,DE: Sky Comedy
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3070.ts
-#EXTINF:-1,DE: Sky Emotion
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3076.ts
-#EXTINF:-1,DE: sky action HD
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3075.ts
-#EXTINF:-1,DE: Sky Germany Hits
-http://luckyiptv.ddns.net:23000/live/Lupi/Lupi/3064.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 13====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,DE_SKY_CINEMA_HD
-http://www.t12v.com:8000/live/romeo/romeo/1280.ts
-#EXTINF:-1,DE_SKY_CINEMA
-http://www.t12v.com:8000/live/romeo/romeo/975.ts
-#EXTINF:-1,DE_SKY_CINEMA_HD_1
-http://www.t12v.com:8000/live/romeo/romeo/976.ts
-#EXTINF:-1,DE_SKY_EMOTION_HD
-http://www.t12v.com:8000/live/romeo/romeo/979.ts
-#EXTINF:-1,DE_SKY_COMEDY_HD
-http://www.t12v.com:8000/live/romeo/romeo/978.ts
-#EXTINF:-1,DE_SKY_ACTION_HD
-http://www.t12v.com:8000/live/romeo/romeo/973.ts
-#EXTINF:-1,DE_SKY_CINEMA_24_HD
-http://www.t12v.com:8000/live/romeo/romeo/977.ts
-#EXTINF:-1,DE_SKY_ATLANTIC_HD
-http://www.t12v.com:8000/live/romeo/romeo/1022.ts
-#EXTINF:-1,DE_SKY_HITS
-http://www.t12v.com:8000/live/romeo/romeo/760.ts
-#EXTINF:-1,DE_SKY_KRIMI
-http://www.t12v.com:8000/live/romeo/romeo/1024.ts
-#EXTINF:-1,DE_SPORT1
-http://www.t12v.com:8000/live/romeo/romeo/761.ts
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 14====[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Sky DE Comedy
-http://xs.best-tv.us:8000/live/otto/otto/2055.ts
-#EXTINF:-1,Sky DE Cinema  24
-http://xs.best-tv.us:8000/live/otto/otto/2054.ts
-#EXTINF:-1,Sky DE Cinema  1
-http://xs.best-tv.us:8000/live/otto/otto/2053.ts
-#EXTINF:-1,Sky DE Cinema
-http://xs.best-tv.us:8000/live/otto/otto/2052.ts
-#EXTINF:-1,Sky DE Hits HD
-http://xs.best-tv.us:8000/live/otto/otto/2058.ts
-#EXTINF:-1,Sky DE Emotion
-http://xs.best-tv.us:8000/live/otto/otto/2057.ts
-#EXTINF:-1,Sky DE Discovery Channel HD
-http://xs.best-tv.us:8000/live/otto/otto/2056.ts
-#EXTINF:-1,Sky DE Atlantic HD
-http://xs.best-tv.us:8000/live/otto/otto/2046.ts
-#EXTINF:-1,Sky DE Action
-http://xs.best-tv.us:8000/live/otto/otto/2045.ts
-#EXTINF:-1,DE: Sky Action HD
-http://xs.best-tv.us:8000/live/otto/otto/1948.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD
-http://xs.best-tv.us:8000/live/otto/otto/1947.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://xs.best-tv.us:8000/live/otto/otto/1946.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://xs.best-tv.us:8000/live/otto/otto/1945.ts
-#EXTINF:-1,DE: Sky Comedy
-http://xs.best-tv.us:8000/live/otto/otto/1944.ts
-#EXTINF:-1,Sky DE Sport 1 HD
-http://xs.best-tv.us:8000/live/otto/otto/2061.ts
-#EXTINF:-1,Sky DE Sport 2 HD
-http://xs.best-tv.us:8000/live/otto/otto/2062.ts
-#EXTINF:-1,DE Sky Select 1 HD
-http://xs.best-tv.us:8000/live/otto/otto/1991.ts
-#EXTINF:-1,DE Sky Select 2 HD
-http://xs.best-tv.us:8000/live/otto/otto/1990.ts
-#EXTINF:-1,DE Sky Select 3 HD
-http://xs.best-tv.us:8000/live/otto/otto/1989.ts
-#EXTINF:-1,DE Sky Select 4 HD
-http://xs.best-tv.us:8000/live/otto/otto/1988.ts
-#EXTINF:-1,DE Sky Select 5 HD
-http://xs.best-tv.us:8000/live/otto/otto/1987.ts
-#EXTINF:-1,DE Sky Select 6 HD
-http://xs.best-tv.us:8000/live/otto/otto/1986.ts
-#EXTINF:-1,DE Sky Select 7 HD
-http://xs.best-tv.us:8000/live/otto/otto/1985.ts
-#EXTINF:-1,DE Sky Select 8 HD
-http://xs.best-tv.us:8000/live/otto/otto/1984.ts
-#EXTINF:-1,DE Sky Select 9 HD
-http://xs.best-tv.us:8000/live/otto/otto/1983.ts
-
-
-#EXTINF:-1,[I][B][COLOR yellow]====Server 15====[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow]====Server 6====[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Sky De Cinema HD
