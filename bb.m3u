@@ -11,73 +11,30 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Sky Bundesliga 1 HD (1)
 http://bit.ly/1XmOcIc
-#EXTINF:-1,Sky Bundesliga 1 HD (2)
-http://tvservice.webhop.me:80/live/cosimo/cosimo/1610.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (3)
-http://tvservice.webhop.me:80/live/cosimo/cosimo/1610.ts
 #EXTINF:-1,Sky Bundesliga 1 HD (4)
 http://91.204.214.106:23321/stolen/512u/sality.lzh
-#EXTINF:-1,Sky Bundesliga 1 HD (5)
-http://newone15.ddns.net:8000/live/flatout/flatout/4395.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (6)
-http://juventus4ever.ddns.net:8000/live/germani/germani/2269.ts
-#EXTINF:-1,Sky Bundesliga 1 (7)
-http://sat.010e.net:8000/live/KASEM/KASEM/1393.ts
-#EXTINF:-1,Sky Bundesliga 1 (8)
-http://sat.010e.net:8000/live/lara1/lara1/1393.ts
-#EXTINF:-1,Sky Bundesliga 1 (9)
-http://electro-tunis.biz:8000/live/DRaKE/DRaKE/183.ts
-#EXTINF:-1,Sky Bundesliga 1 (10)
-http://37.187.165.95:34555/live/Filippo00/Egizzi/227.ts
-#EXTINF:-1,Sky Bundesliga 1 (11)
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
-#EXTINF:-1,Sky Bundesliga 1 (12)
-http://sat.010e.net:8000/live/lara1/lara1/1393.ts
-#EXTINF:-1,Sky Bundesliga 1 (13)
-http://sat.010e.net:8000/live/KASEM/KASEM/1393.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (14)
-http://xs.best-tv.us:8000/live/otto/otto/2047.ts
 #EXTINF:-1,Sky Bundesliga 1 HD (15)
 http://tvservice.webhop.me:80/live/fracast/fracast/1610.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (16)
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2226.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (17)
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2227.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (18)
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2331.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (19)
-http://xs.best-tv.us:8000/live/daniel/daniel/2998.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (20)
-http://v-iptv.dyndns.org:8000/live/massimo.bar/3DKXUlr8DP/1551.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (21)
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1393.ts
-#EXTINF:-1,Sky Bundesliga 1 HD (22)
-http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4025.ts
 
 
 #EXTINF:-1,[COLOR yellow][I][B]--- LIGTV ---[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,LigTV HD 1
-http://sat.010e.net:8000/live/KASEM/KASEM/451.ts
-#EXTINF:-1,LigTV HD 1
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/451.ts
-#EXTINF:-1,LigTV HD 1
 http://www.t12v.com:8000/live/angelo/angelo/896.ts
 
-#EXTINF:-1,LigTV HD 2
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/450.ts
-#EXTINF:-1,LigTV HD 2
-http://cdn.step-tv.com:8000/live/tarek/tarek/391.ts
-#EXTINF:-1,LigTV HD 2
-http://sat.010e.net:8000/live/KASEM/KASEM/450.ts
+#EXTINF:-1,LigTV HD 1
+http://37.59.29.11:1096/live/KRALSMARTIPTV/KRALSMARTIPTV/20.ts
+
 #EXTINF:-1,LigTV HD 2
 http://www.t12v.com:8000/live/angelo/angelo/895.ts
+#EXTINF:-1,LigTV HD 2
+http://37.59.29.11:1096/live/KRALSMARTIPTV/KRALSMARTIPTV/3.ts
 
 #EXTINF:-1,LigTV HD 3
-http://cdn.step-tv.com:8000/live/tarek/tarek/390.ts
-#EXTINF:-1,LigTV HD 3
 http://www.t12v.com:8000/live/angelo/angelo/905.ts
+#EXTINF:-1,LigTV HD 3
+http://37.59.29.11:1096/live/KRALSMARTIPTV/KRALSMARTIPTV/1.ts
 
 
 #EXTINF:-1,[I][B][COLOR yellow]====SKY SERVER====[/COLOR][/B][/I]
